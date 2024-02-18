@@ -1,2 +1,2 @@
-# fisica
-Repositório de aulas e atividades de Física do Professor Renato Pereira.
+# banner
+Código de html para aula de Pensamento Computacional.
